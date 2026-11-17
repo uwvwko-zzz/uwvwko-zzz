@@ -95,8 +95,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uwvwko-zzz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwvwko-zzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="langs" />
+
 
 <img src="https://streak-stats.demolab.com?user=uwvwko-zzz&theme=tokyonight&hide_border=true" width="70%" alt="streak" />
 
