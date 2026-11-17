@@ -26,10 +26,14 @@
 
 [![go2w-supermimic](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=go2w-supermimic&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/go2w-supermimic)
 
+🧗 **Go2-W supermimic 复现**：无视觉、纯本体感知（盲狗）上下 20cm 台阶 + 深度图
+
 </td>
 <td width="50%">
 
 [![uw-himloco](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=uw-himloco&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/uw-himloco)
+
+⚙️ **HIMLoco 运控训练框架修改版**：模块化改造，开箱即用，方便快速做自己的策略
 
 </td>
 </tr>
@@ -38,10 +42,14 @@
 
 [![uw-backflip](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=uw-backflip&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/uw-backflip)
 
+🤸 **Go2 后空翻全流程**：从仿真训练到真机部署的完整代码
+
 </td>
 <td width="50%">
 
 [![himdog](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=himdog&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/himdog)
+
+🐕 **HIMLoco Sim2Real 部署端**（C++）：26年串联狗sim2real+slam代码
 
 </td>
 </tr>
@@ -50,24 +58,21 @@
 
 [![mujoco-gui](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=mujoco-gui&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/mujoco-gui)
 
+🖥️ **MuJoCo 可视化 GUI 工具**：方便加载模型、回放策略、调试仿真
+
 </td>
 <td width="50%">
 
 [![27rc-dog-race](https://github-readme-stats.vercel.app/api/pin/?username=uwvwko-zzz&repo=27rc-dog-race&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/uwvwko-zzz/27rc-dog-race)
+
+🏁 **2027 RC 狗赛**：比赛任务与障碍地形地图
 
 </td>
 </tr>
 </table>
 </div>
 
-#### 🧩 其他项目
 
-| 项目 | 说明 |
-|------|------|
-| [`Quick-Note`](https://github.com/uwvwko-zzz/Quick-Note) | 轻量级桌面笔记工具，`Ctrl+Alt+E` 一键呼出 |
-| [`mattpocock-skills-openclaw`](https://github.com/uwvwko-zzz/mattpocock-skills-openclaw) | 将 mattpocock/skills 转换为 OpenClaw 兼容格式 |
-
----
 
 ### 🛠️ 技术栈
 
